@@ -1,0 +1,7 @@
+
+Put this file inside htdocs
+Database Configuration
+Open phpmyadmin
+Create Database named quiz_new.
+import from zip
+
